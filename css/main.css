@@ -1,5 +1,5 @@
 body {
-	
+	background-image: url('img/header1.jpeg')
 	background-attachment: fixed;
 }
 
@@ -20,6 +20,7 @@ header {
 
 #homeHeading {
 	text-align: center;
+
 }
 
 #paragraphness {
@@ -36,15 +37,12 @@ paragraphness2 {
 
 .section-heading {
 	color: white;
-	padding: 20px
+	padding: 20px;
 }
 
 .container1 {
 	background-color: #029bc9;
 }
 
-.col-lg-8 col-lg-offset-2 text-center {
-	font-size: 10px;
-	width: 100px;
-	height: 100px;
+
 }
