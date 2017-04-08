@@ -1,12 +1,25 @@
 body {
-	background-image: url('../img/header1.jpeg');
+	
 	background-attachment: fixed;
 }
 
+#contact {
+	background-color: black;
+	margin: auto;
+	padding: 30px;
+}
 
 header {
 	font-style: italic;
-	/*background-image: url('../img/header1.jpeg');*/
+	background-image: url('../img/header1.jpeg');
+	background-attachment: fixed;
+	color: #029bc9;
+	text-align: center;
+	
+}
+
+#homeHeading {
+	text-align: center;
 }
 
 #paragraphness {
@@ -18,9 +31,20 @@ header {
 }
 
 paragraphness2 {
-	color: white;
+	color: #ccebfb;
 }
 
 .section-heading {
 	color: white;
+	padding: 20px
+}
+
+.container1 {
+	background-color: #029bc9;
+}
+
+.col-lg-8 col-lg-offset-2 text-center {
+	font-size: 10px;
+	width: 100px;
+	height: 100px;
 }
