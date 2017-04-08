@@ -1,0 +1,26 @@
+body {
+	background-image: url('../img/header1.jpeg');
+	background-attachment: fixed;
+}
+
+
+header {
+	font-style: italic;
+	/*background-image: url('../img/header1.jpeg');*/
+}
+
+#paragraphness {
+	color: white;
+}
+
+#paragraphness1 {
+	color: white;
+}
+
+paragraphness2 {
+	color: white;
+}
+
+.section-heading {
+	color: white;
+}
