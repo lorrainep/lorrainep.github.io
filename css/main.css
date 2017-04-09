@@ -17,6 +17,7 @@ header {
 
 #homeHeading {
 	text-align: center;
+	font-size: 100px;
 }
 
 #paragraphness {
@@ -52,6 +53,7 @@ paragraphness2 {
 
 #servies {
 	background-color: none;
+
 }
 
 .fa fa-linkedin-square {
@@ -59,6 +61,26 @@ paragraphness2 {
 	height: 50px;
 }
 
-#homeHeading {
+.container2 {
+	text-align: center;
+	width: 100%;
+}
+
+a {
+	-webkit-transition: all 0.35s;
+	-moz-transition: all 0.35s;
+	transition: all 0.35s;
+	color: #2ed2e8;
+}
+
+	a:hover,
+	a:focus {
+		color: white;
+	}
+
+#row1 {
+	text-align: center;
+}
+#rw2 {
 	text-align: center;
 }
